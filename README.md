@@ -9,3 +9,8 @@ that are relevant for your project in the following format:
 - Group members: Mercutio, Benvolio, Desdemona
 - GitHub: http://github.com/desdemona/shiny-app
 - Other Important Link: http://website.net/link
+
+## Mindfulness
+
+- Group members: Matt Cole, Sarah Salter
+- GitHub: http://github.com/sarahsalter/Mindfulness
