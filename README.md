@@ -14,3 +14,8 @@ that are relevant for your project in the following format:
 
 - Group members: Matt Cole, Sarah Salter
 - GitHub: http://github.com/sarahsalter/Mindfulness
+
+## Remote Asthma Monitoring
+
+- Group members: Divya Narayanan, Cynthia Kineza
+- Github: http://github.com/d-narayanan/Remote-Asthma-Monitoring
