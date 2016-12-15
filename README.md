@@ -13,7 +13,8 @@ that are relevant for your project in the following format:
 ## Mindfulness
 
 - Group members: Matt Cole, Sarah Salter
-- GitHub: http://github.com/sarahsalter/Mindfulness
+- GitHub: https://github.com/mattkcole/mindfulness
+- App link: https://jhubiostatistics.shinyapps.io/mindfulness/
 
 ## Remote Asthma Monitoring
 
