@@ -21,3 +21,8 @@ that are relevant for your project in the following format:
 - Group members: Divya Narayanan, Cynthia Kineza
 - Github: http://github.com/d-narayanan/Remote-Asthma-Monitoring
 - App link: https://jhubiostatistics.shinyapps.io/remote_asthma_monitoring/
+
+## HEAP
+
+- Group members: Yifan Zhou, Wenyi Lin, Ding Ding
+- App link: https://jhubiostatistics.shinyapps.io/heap/
