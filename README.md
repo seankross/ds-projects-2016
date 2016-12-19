@@ -25,4 +25,4 @@ that are relevant for your project in the following format:
 ## Cookstove Temperatures
 - Group members: Anton Kvit, Josiah Kephart
 - Github: https://github.com/akvit1/Cookstove_Project
-- App link: https://jhubiostatistics.shinyapps.io/cookstove_r_code/
+- App link: https://jhubiostatistics.shinyapps.io/stove_temperature/
