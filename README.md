@@ -21,3 +21,8 @@ that are relevant for your project in the following format:
 - Group members: Divya Narayanan, Cynthia Kineza
 - Github: http://github.com/d-narayanan/Remote-Asthma-Monitoring
 - App link: https://jhubiostatistics.shinyapps.io/remote_asthma_monitoring/
+
+## Cookstove Temperatures
+- Group members: Anton Kvit, Josiah Kephart
+- Github: https://github.com/akvit1/Cookstove_Project
+- App link: https://jhubiostatistics.shinyapps.io/stove_temperature/
