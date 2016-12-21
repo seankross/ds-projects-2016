@@ -23,5 +23,18 @@ that are relevant for your project in the following format:
 - App link: https://jhubiostatistics.shinyapps.io/remote_asthma_monitoring/
 
 ## HEAP
+
 - Group members: Yifan Zhou, Wenyi Lin, Ding Ding
 - App Link: https://jhubiostatistics.shinyapps.io/heap/
+
+## False Discovery Rate Calculator
+
+- Group members: Kayode Sosina, Prosenjit Kundu, Lamar Hunt
+- Githib: https://github.com/lhunt13/FalseDiscoveryRate
+- App link: https://jhubiostatistics.shinyapps.io/falsediscoveryrate/
+
+## Cookstove Temperatures
+
+- Group members: Anton Kvit, Josiah Kephart
+- Github: https://github.com/akvit1/Cookstove_Project
+- App link: https://jhubiostatistics.shinyapps.io/stove_temperature/
