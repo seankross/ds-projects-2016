@@ -25,7 +25,7 @@ that are relevant for your project in the following format:
 ## HEAP
 
 - Group members: Yifan Zhou, Wenyi Lin, Ding Ding
-- App link: https://jhubiostatistics.shinyapps.io/heap/
+- App Link: https://jhubiostatistics.shinyapps.io/heap/
 
 ## False Discovery Rate Calculator
 
@@ -34,6 +34,7 @@ that are relevant for your project in the following format:
 - App link: https://jhubiostatistics.shinyapps.io/falsediscoveryrate/
 
 ## Cookstove Temperatures
+
 - Group members: Anton Kvit, Josiah Kephart
 - Github: https://github.com/akvit1/Cookstove_Project
 - App link: https://jhubiostatistics.shinyapps.io/stove_temperature/
