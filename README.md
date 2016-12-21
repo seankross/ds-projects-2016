@@ -22,6 +22,11 @@ that are relevant for your project in the following format:
 - Github: http://github.com/d-narayanan/Remote-Asthma-Monitoring
 - App link: https://jhubiostatistics.shinyapps.io/remote_asthma_monitoring/
 
+## HEAP
+
+- Group members: Yifan Zhou, Wenyi Lin, Ding Ding
+- App link: https://jhubiostatistics.shinyapps.io/heap/
+
 ## False Discovery Rate Calculator
 
 - Group members: Kayode Sosina, Prosenjit Kundu, Lamar Hunt
