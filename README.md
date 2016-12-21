@@ -22,6 +22,12 @@ that are relevant for your project in the following format:
 - Github: http://github.com/d-narayanan/Remote-Asthma-Monitoring
 - App link: https://jhubiostatistics.shinyapps.io/remote_asthma_monitoring/
 
+## False Discovery Rate Calculator
+
+- Group members: Kayode Sosina, Prosenjit Kundu, Lamar Hunt
+- Githib: https://github.com/lhunt13/FalseDiscoveryRate
+- App link: https://jhubiostatistics.shinyapps.io/falsediscoveryrate/
+
 ## Cookstove Temperatures
 - Group members: Anton Kvit, Josiah Kephart
 - Github: https://github.com/akvit1/Cookstove_Project
