@@ -38,3 +38,9 @@ that are relevant for your project in the following format:
 - Group members: Anton Kvit, Josiah Kephart
 - Github: https://github.com/akvit1/Cookstove_Project
 - App link: https://jhubiostatistics.shinyapps.io/stove_temperature/
+
+## Lesion Measurements
+
+- Group member: Jacob Fiksel
+- Github: https://github.com/jfiksel/lesion_measurements
+- App link: https://jhubiostatistics.shinyapps.io/lesion_measurements/
